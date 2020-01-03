@@ -1,0 +1,28 @@
+h1{
+    color:#361e1c;
+}
+section p.text-center{
+    color:#7f7476;
+}
+.btn-primary{
+    background-color: #a8ca01;
+    border-color: #a8ca01;
+    color: white;
+    font-weight: 800;
+}
+.btn-primary.focus, .btn-primary:focus,.btn-primary:hover {
+	color: #fff;
+	background-color: #a8ca01;
+	border-color: #a8ca01;
+	box-shadow: 0 0 0 .2rem #a8ca01;
+}
+img{
+    width:95px;
+    padding-left:1.25rem;
+}
+.card-text{
+    color:#c2c0bc;
+}
+.card-title{
+    color:#252721;
+}
